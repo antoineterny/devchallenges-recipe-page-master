@@ -1,6 +1,7 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Recipe page
+</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -37,7 +38,8 @@
 
 [![screenshot](screenshot.png)](https://devchallenges-recipe-page-master.vercel.app/)
 
-A classic challenge. I tried to keep the html as lightweight as possible to reproduce the layout.
+A cool classic challenge.  
+It was not easy to keep the html lightweight in order to replicate the layout.
 
 ### Built With
 
@@ -50,7 +52,7 @@ A classic challenge. I tried to keep the html as lightweight as possible to repr
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [W3schools.com](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)  
-I needed help in order to get the custom checkbox hover. Thank you ~ css selector !
+  I needed help in order to get the custom checkbox hover. Thank you ~ css selector !
 
 ## Contact
 
